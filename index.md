@@ -28,8 +28,8 @@
   > Python is a programming language that lets you work quickly and integrate systems more effectively.  
 
 ## My Goal in CSE 110:
-[ ] Get an A !  
-[ ] Build leadership !  
-[ ] Make good software !  
-[ ] Learn from my peers !  
-[ ] Be a good engineer !  
+- [ ] Get an A !  
+- [ ] Build leadership !  
+- [ ] Make good software !  
+- [ ] Learn from my peers !  
+- [ ] Be a good engineer !  
